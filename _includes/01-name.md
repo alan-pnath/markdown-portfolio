@@ -1,4 +1,4 @@
-# Replace this with your name, and include a header.
+# Alan
 ## this is smaller than heading 1
 ### this is smaller than heading 2
 #### this is smaller than heading 3
